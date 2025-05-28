@@ -38,7 +38,7 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center">
               <a href="/" className="inline-block">
-                <img src="/assets/logo.png" alt="Logo" className="h-10 w-10 md:h-16 md:w-16" />
+                <img src="src\assets\logo.png" alt="Logo" className="h-10 w-10 md:h-16 md:w-16" />
               </a>
               <span className="ml-2 text-lg md:text-2xl font-bold text-green-700">PropSouthIndia</span>
             </div>
